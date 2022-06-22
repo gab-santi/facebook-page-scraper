@@ -10,7 +10,7 @@ idna==2.9
 joblib==0.14.1
 lxml==4.5.0
 nltk==3.4.5
-numpy==1.18.2
+numpy==1.22.0
 pandas==1.0.3
 parse==1.15.0
 pyee==7.0.1
